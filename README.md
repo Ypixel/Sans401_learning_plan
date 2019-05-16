@@ -42,12 +42,7 @@
         - [Module 33: Securing Linux/Unix - BOOT PROCESS, RUN LEVELS AND SERVICES](#Module-33:-Securing-Linux/Unix---BOOT-PROCESS,-RUN-LEVELS-AND-SERVICES)
         - [Module 34: Securing Linux/Unix - LOGS AND LOG MANAGEMENT](#Module-34:-Securing-Linux/Unix---LOGS-AND-LOG-MANAGEMENT)
         - [Module 35: Securing Linux/Unix - PATCH MANAGEMENT](#Module-35:-Securing-Linux/Unix---PATCH-MANAGEMENT)
-        - [](#)
 # Sans401 learning plan
-
-[TOC]
-
-
 
 ## 401.1 Networking Concepts
 
@@ -133,13 +128,15 @@
 
 
 
+## 计划
+
+参考资料共 35个 Module ，预计划每天学习一个Module，根据具体每日学习部分难易，时间多少，适当调整学习进度，预计一个月左右学习完成。
 
 
-### 
 
+## Todo list
 
-
-
+- [ ] Module 1: Network Fundamentals
 
 
 
