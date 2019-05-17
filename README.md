@@ -52,5 +52,10 @@
 
 ## Todo list
 
+<<<<<<< HEAD
 - [ ] [Module 1: Network Fundamentals](./module1_Notes.md)
-- [ ] 
+- [ ] ... 
+=======
+- [ ] Module 1: Network Fundamentals
+- [ ] ...
+>>>>>>> 529b30a60bff8c47450d8b4bf52bf6fd77c84638
