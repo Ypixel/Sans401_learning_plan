@@ -52,5 +52,5 @@
 
 ## Todo list
 
-- [ ] Module 1: Network Fundamentals
+- [ ] [Module 1: Network Fundamentals](./module1_Notes.md)
 - [ ] 
