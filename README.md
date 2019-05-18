@@ -52,5 +52,6 @@
 
 ## Todo list
 
-- [x] [Module 1: Network Fundamentals](./module1_Notes.md)
+- [x] [Module 1: Network Fundamentals](./Module1_Notes.md)
+- [x] [Module 2: IP Concepts I](./Module2_Notes.md)
 - [ ] ... 
