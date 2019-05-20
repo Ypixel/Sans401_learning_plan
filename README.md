@@ -46,7 +46,7 @@
 
 ## 计划
 
-参考资料共 35个 Module ，预计划每天学习一个Module，根据具体每日学习部分难易，时间多少，适当调整学习进度，预计一个月左右学习完成。
+参考资料共 35个 Module ，预计划每天学习一个Module，根据具体每日学习部分难易，时间多少，适当调整学习进度，预计一个月左右学习完成。计划修改，对于一些简单的课程，略读即可，提高学习效率。保证一个月内可以完成整个课程的学习。
 
 
 
@@ -55,4 +55,5 @@
 - [x] [Module 1: Network Fundamentals](./Module1_Notes.md)
 - [x] [Module 2: IP Concepts I](./Module2_Notes.md)
 - [x] [Module 3: IP Concepts II](./Module3_Notes.md) 
+- [x] [Module 4: Protocol Analysis](./Module4_Notes.md) 
 - [ ] ... 
