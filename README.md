@@ -56,4 +56,5 @@
 - [x] [Module 2: IP Concepts I](./Module2_Notes.md)
 - [x] [Module 3: IP Concepts II](./Module3_Notes.md) 
 - [x] [Module 4: Protocol Analysis](./Module4_Notes.md) 
+- [x] [Module 5: Virtual Machines](./Module5_Notes.md)
 - [ ] ... 
