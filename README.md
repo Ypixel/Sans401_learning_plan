@@ -57,4 +57,6 @@
 - [x] [Module 3: IP Concepts II](./Module3_Notes.md) 
 - [x] [Module 4: Protocol Analysis](./Module4_Notes.md) 
 - [x] [Module 5: Virtual Machines](./Module5_Notes.md)
+- [x] [Module 6: Safety and physical Security](./Module6_Notes.md) 
+- [ ] [Module 7: Defense-in-Depth](./Module7_Notes.md) 
 - [ ] ... 
