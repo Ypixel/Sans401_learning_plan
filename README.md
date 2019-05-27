@@ -59,5 +59,6 @@
 - [x] [Module 5: Virtual Machines](./Module5_Notes.md)
 - [x] [Module 6: Safety and physical Security](./Module6_Notes.md) 
 - [x] [Module 7: Defense-in-Depth](./Module7_Notes.md) 
-- [ ] [Module 8: Basic Security Policy](./Module8_Notes.md) 
+- [x] [Module 8: Basic Security Policy](./Module8_Notes.md) 
+- [ ] [Module 9: Access Control and Password Management](./Module9_Notes.md) 
 - [ ] ... 
