@@ -61,5 +61,6 @@
 - [x] [Module 7: Defense-in-Depth](./Module7_Notes.md) 
 - [x] [Module 8: Basic Security Policy](./Module8_Notes.md) 
 - [x] [Module 9: Access Control and Password Management](./Module9_Notes.md) 
-- [ ] [Module 10: Incident Handling Foundations](./Module10_Notes.md) 
+- [x] [Module 10: Incident Handling Foundations](./Module10_Notes.md) 
+- [ ] [Module 11: Information Warfare](./Module11_Notes.md)
 - [ ] ... 
